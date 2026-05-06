@@ -1,6 +1,6 @@
 {
   "name": "smpp",
-  "version": "0.6.0-rc.5",
+  "version": "1.0.1",
   "description": "SMPP client and server implementation in node.js with extended raw buffer support.",
   "homepage": "https://saleemabdullah.com",
   "bugs": "https://github.com/farhadi/node-smpp/issues",
